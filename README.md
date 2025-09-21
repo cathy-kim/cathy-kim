@@ -1,5 +1,3 @@
-# 🤖 Cathy Kim — AI & Full-Stack Builder
-
 <p align="center">
   <!-- 방문자 수 -->
   <img src="https://komarev.com/ghpvc/?username=cathy-kim&label=visits&color=0e75b6&style=flat" alt="visits" />
