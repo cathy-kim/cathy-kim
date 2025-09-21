@@ -48,9 +48,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cathy-kim/cathy-kim/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
