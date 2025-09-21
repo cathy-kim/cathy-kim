@@ -5,14 +5,33 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📈 Contribution Dashboard
 
 <p align="center">
-  <!-- 전체 활동 통계 (등급 제거) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cathy-kim&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" height="160" />
-  <!-- 언어 다양성 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-kim&layout=compact&theme=tokyonight" height="160" />
+  <!-- 기여 그래프 (activity chart) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cathy-kim&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
+
+---
+
+## 🕒 Commit Frequency
+
+<p align="center">
+  <!-- 요일/시간별 커밋 빈도 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cathy-kim&theme=tokyonight&utcOffset=9" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=cathy-kim&theme=tokyonight" alt="commits per day" />
+</p>
+
+---
+
+## 📊 Workload Overview
+
+<p align="center">
+  <!-- 총 커밋, PR, Issue 등 요약 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cathy-kim&theme=tokyonight" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cathy-kim&theme=tokyonight" alt="repos per language" />
+</p>
+
 
 ---
 
