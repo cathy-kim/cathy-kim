@@ -8,8 +8,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <!-- 전체 활동 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cathy-kim&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <!-- 전체 활동 통계 (등급 제거) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cathy-kim&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" height="160" />
   <!-- 언어 다양성 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-kim&layout=compact&theme=tokyonight" height="160" />
 </p>
