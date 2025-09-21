@@ -19,7 +19,6 @@
 <p align="center">
   <!-- 요일/시간별 커밋 빈도 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cathy-kim&theme=tokyonight&utcOffset=9" alt="productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=cathy-kim&theme=tokyonight" alt="commits per day" />
 </p>
 
 ---
