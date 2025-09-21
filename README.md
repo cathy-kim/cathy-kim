@@ -1,4 +1,4 @@
-# 🌟 Welcome to Cathy Kim's GitHub
+# 🤖 Cathy Kim — AI & Full-Stack Builder
 
 <p align="center">
   <!-- 방문자 수 -->
@@ -7,44 +7,42 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
+  <!-- 전체 활동 통계 -->
   <img src="https://github-readme-stats.vercel.app/api?username=cathy-kim&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <!-- 언어 다양성 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-kim&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🔥 Streak
+## 🔥 Contribution Dynamics
+
 <p align="center">
+  <!-- 연속 커밋 / 꾸준함 강조 -->
   <img src="https://streak-stats.demolab.com?user=cathy-kim&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cathy-kim&theme=onedark&row=1&column=6" alt="trophies" />
-</p>
+## 💻 AI & Tech Stack
 
----
-
-## 💻 Tech Stack
 <p align="center">
-  <!-- 프로그래밍 언어 -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <!-- Core AI / ML -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white" />
 
-  <!-- 프레임워크/라이브러리 -->
+  <!-- Full-Stack / Infra -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-
-  <!-- 인프라/툴 -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
