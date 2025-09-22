@@ -31,16 +31,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cathy-kim&theme=tokyonight" alt="repos per language" />
 </p>
 
-
----
-
-## 🔥 Contribution Dynamics
-
-<p align="center">
-  <!-- 연속 커밋 / 꾸준함 강조 -->
-  <img src="https://streak-stats.demolab.com?user=cathy-kim&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
 ---
 
 ## 💻 Tech Stack
